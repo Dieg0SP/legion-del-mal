@@ -18,11 +18,9 @@
 16. Lady Shiva
 17. Deadshot
 18. Scarecrow
-<<<<<<< HEAD
-19. Kid
-20. Law
-=======
 19. Enel
 20. Teach
 21. Gorosei
->>>>>>> refs/remotes/origin/master
+22. Kid
+23. Law
+
