@@ -18,3 +18,5 @@
 16. Lady Shiva
 17. Deadshot
 18. Scarecrow
+19. Kid
+20. Law
